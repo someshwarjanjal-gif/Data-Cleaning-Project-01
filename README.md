@@ -16,6 +16,7 @@ The objective of the project is to clean a messy orders dataset using SQL.
 ## Cleaning Steps 
 
 Query 1 - Detect duplicates
+
 Query 2 - Renove duplicates
 Query 3 - Detect NULL emails
 Query 4 - Replace missing emails
