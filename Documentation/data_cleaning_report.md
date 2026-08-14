@@ -32,7 +32,3 @@ The objective of the project is to clean a messy orders dataset using SQL.
 ## Final Step
 
 Converted column data types to the correct SQL data types.
-
-
-## Final Step 
-Converted column datatypes to correct SQL datatypes.
