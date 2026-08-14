@@ -1,0 +1,14 @@
+order_id,customer_name,email,city,order_date,amount
+1,Amit Sharma,amit@gmail.com,Delhi,2024-05-01,1200
+2,Riya Gupta,riya@gmail.com,Mumbai,2024-07-01,850
+3,Rahul Verma,rahul@gmail.com,Delhi,2024-08-01,950
+4,Pooja Singh,unknown@email.com,Delhi,2024-09-01,700
+6,Neha Kapoor,neha@gmail.com,Mumbai,2024-10-01,650
+7,Vikas Jain,vikas@gmail.com,Delhi,2024-12-01,1100
+8,Ankit Mehta,ankit@gmail.com,Bangalore,2024-01-13,900
+9,Priya Shah,priya@gmail.com,Mumbai,2024-01-14,500
+10,Rohit Gupta,rohit@gmail.com,Delhi,2024-01-15,1000
+11,Sneha Patil,sneha@gmail.com,Pune,2024-01-01,750
+12,Karan Malhotra,karan@gmail.com,Bengaluru,2024-01-18,0
+13,Meena Joshi,meena@gmail.com,Delhi,2024-01-19,850
+14,Sanjay Kumar,sanjay@gmail.com,Chennai,2024-01-20,780
